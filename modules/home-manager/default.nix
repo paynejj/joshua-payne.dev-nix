@@ -18,11 +18,14 @@ in
       fd
       gcc
       gdu
+      imagemagick
+      jpegoptim
       luajitPackages.luarocks
       neovim-nightly
       nodejs_20
       nodePackages.neovim
       nodePackages.prettier
+      optipng
       python311Full
       python311Packages.pynvim
       python311Packages.pip
